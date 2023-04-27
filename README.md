@@ -1,14 +1,14 @@
 ### Hi there 👋
 
+- ❗ I'm currently looking for a job!
 - 🔭 I’m currently working on [TasteBuds](https://github.com/anomic84/TasteBuds)
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning GraphQL
 - 📫 How to reach me: spencerccarlson0@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also an Audio Engineer and Singer-Songwriter
 - 🎶 Here are some links to my two music projects:
--- [Spencer Carlson](https://songwhip.com/spencer-carlson)
--- [Bus Ride Daydream](https://songwhip.com/busridedaydream)
+- [Spencer Carlson](https://songwhip.com/spencer-carlson)
+- [Bus Ride Daydream](https://songwhip.com/busridedaydream)
 <!--
 **anomic84/anomic84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
