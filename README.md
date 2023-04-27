@@ -1,5 +1,5 @@
 ### Hi there, I'm Spencer 👋 
-# [SpencerCCarlson][website] 
+## [SpencerCCarlson][website] 
 
 - ❗ I'm currently looking for a job!
 - 🔭 I’m currently working on [TasteBuds](https://github.com/anomic84/TasteBuds)
