@@ -7,7 +7,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also an Audio Engineer and Singer-Songwriter
 - 🎶 Here are some links to my two music projects:
-<br/>
 - 🎸 [Spencer Carlson (Elliott Smith, Nick Drake influenced Singer-Songwriter][spencercarlsonmusic]
 - 🚎 [Bus Ride Daydream (Lo-Fi Hip Hop, DreamHop][busridedaydream]
 
