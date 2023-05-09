@@ -1,13 +1,13 @@
 ### Hi there, I'm Spencer 👋 
 #### Website: [SpencerCCarlson][website] 
 
-- ❗ I'm currently looking for a job!
-- 🔭 I’m currently working on [TasteBuds](https://github.com/anomic84/TasteBuds)
-- 🌱 I’m currently learning GraphQL
-- 📫 How to reach me: spencerccarlson0@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also an Audio Engineer and Singer-Songwriter
-- 🎶 Here are some links to my two music projects:
+-  I'm currently looking for a job!
+-  I’m currently working on [TasteBuds](https://github.com/anomic84/TasteBuds)
+-  I’m currently learning GraphQL
+-  How to reach me: spencerccarlson0@gmail.com
+-  Pronouns: He/Him
+-  Fun fact: I'm also an Audio Engineer and Singer-Songwriter
+-  Here are some links to my two music projects:
 - 🎸 [Spencer Carlson (Elliott Smith, Nick Drake influenced Singer-Songwriter)][spencercarlsonmusic]
 - 🚎 [Bus Ride Daydream (Lo-Fi Hip Hop, DreamHop)][busridedaydream]
 
